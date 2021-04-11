@@ -1,0 +1,5 @@
+﻿  Sever.cpp
+D:\code\c++\data\EsaySocket\Sever\Sever.cpp(78,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\code\c++\data\EsaySocket\Sever\Sever.cpp(103,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\code\c++\data\EsaySocket\Sever\Sever.cpp(115,23): warning C4018: “<”: 有符号/无符号不匹配
+  Sever.vcxproj -> D:\code\c++\data\EsaySocket\Debug\Sever.exe
